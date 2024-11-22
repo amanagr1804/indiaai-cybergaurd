@@ -1,3 +1,12 @@
 torch
 scikit-learn
 pandas
+numpy
+pandas
+scikit-learn
+tensorflow
+torch
+"matplotlib
+seaborn
+flask
+keras
