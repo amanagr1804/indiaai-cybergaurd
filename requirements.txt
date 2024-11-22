@@ -6,7 +6,7 @@ pandas
 scikit-learn
 tensorflow
 torch
-"matplotlib
+matplotlib
 seaborn
 flask
 keras
