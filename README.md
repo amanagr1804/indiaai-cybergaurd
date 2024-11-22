@@ -64,6 +64,17 @@ This project is designed to help users train a machine learning model and evalua
   ```
 - Follow the instructions in the notebook to load the trained model and evaluate its performance on the test dataset.
 
+### 3. Inference the Model
+
+- Open the `Inference.ipynb` file in Jupyter Notebook or JupyterLab:
+- There is a pretrained model with https://drive.google.com/drive/folders/1GrZgtbCe8lxjSaSzKDo95CNm6lInXpRt?usp=drive_link
+  ```bash
+  pip install gdown
+  gdown --folder https://drive.google.com/drive/folders/1GrZgtbCe8lxjSaSzKDo95CNm6lInXpRt
+  unzip folder_name.zip
+  ```
+- Follow the instructions in the notebook to load the trained model and evaluate its performance on any text.
+
 ---
 
 ## Dependencies
