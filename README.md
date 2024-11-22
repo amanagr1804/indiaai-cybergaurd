@@ -90,10 +90,3 @@ pip install -r requirements.txt
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out for support or suggestions via [your email/contact details]. Happy coding! 🚀
