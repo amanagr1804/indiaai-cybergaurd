@@ -29,8 +29,8 @@ This project is designed to help users train a machine learning model and evalua
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/amanagr1804/indiaai-cybergaurd.git
+   cd indiaai-cybergaurd
    ```
 
 2. **Install Dependencies**:
@@ -42,11 +42,6 @@ This project is designed to help users train a machine learning model and evalua
    ```
    *(Note: Create a `requirements.txt` file listing all necessary libraries if not already included.)*
 
-3. **Install Jupyter Notebook**:
-   If not already installed:
-   ```bash
-   pip install notebook
-   ```
 
 ---
 
